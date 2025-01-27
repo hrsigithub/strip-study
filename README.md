@@ -1,6 +1,9 @@
 Stripe 入門
 https://www.youtube.com/watch?v=gGkqFefpkVI&list=PLGL_UBWopPOEzsFJBD3xwlgRZGCZjkZ2w&index=2
 
+https://dashboard.stripe.com/dashboard
+Hiroshi@1125
+
 npm init -y
 git init
 
