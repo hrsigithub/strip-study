@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=gGkqFefpkVI&list=PLGL_UBWopPOEzsFJBD3xwlgRZGCZjk
 https://dashboard.stripe.com/dashboard
 Hiroshi@1125
 
+カード番号
+4242 4242 4242 4242
+
+
 npm init -y
 git init
 
